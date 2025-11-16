@@ -58,7 +58,7 @@
 		"jszip": "^3.10.1",
 		"mdast-util-to-string": "^3.2.0",
 		"mdx-annotations": "^0.1.4",
-		"next": "^15.5.2",
+		"next": "^15.4.7",
 		"next-router-mock": "^0.9.13",
 		"next-sitemap": "^4.2.3",
 		"postcss": "^8.5.6",
@@ -91,7 +91,7 @@
 	},
 	"devDependencies": {
 		"@types/escape-html": "^1.0.4",
-		"axios": "^1.11.0",
+		"axios": "^1.12.0",
 		"eslint": "8.26.0",
 		"eslint-config-next": "13.0.2",
 		"file-loader": "^6.2.0",
