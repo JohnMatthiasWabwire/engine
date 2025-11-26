@@ -171,7 +171,7 @@
 		"@rivetkit/engine-runner": "workspace:*",
 		"@rivetkit/fast-json-patch": "^3.1.2",
 		"cbor-x": "^1.6.0",
-		"hono": "^4.7.0",
+		"hono": "^4.10.3",
 		"invariant": "^2.2.4",
 		"nanoevents": "^9.1.0",
 		"on-change": "npm:@rivetkit/on-change@^6.0.2-rc.1",
