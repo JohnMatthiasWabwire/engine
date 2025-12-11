@@ -16,7 +16,7 @@
 		"@hono/node-server": "^1.14.0",
 		"rivetkit": "workspace:*",
 		"@rivetkit/react": "workspace:*",
-		"hono": "^4.6.18",
+		"hono": "^4.10.3",
 		"react": "^18.3.1",
 		"react-dom": "^18.3.1"
 	},
@@ -28,7 +28,7 @@
 		"concurrently": "^9.1.2",
 		"tsx": "^4.20.0",
 		"typescript": "^5.7.3",
-		"vite": "^5.4.19",
+		"vite": "^5.4.21",
 		"vitest": "^3.1.1"
 	},
 	"template": {
